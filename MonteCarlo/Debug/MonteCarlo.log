@@ -1,0 +1,15 @@
+﻿  CardTest.cpp
+  DeckTest.cpp
+C:\Users\PatnodeIA17\source\repos\MonteCarlo\MonteCarlo\Card.h(17,43): warning C4290:  C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\PatnodeIA17\source\repos\MonteCarlo\MonteCarlo\Card.h(22,42): warning C4290:  C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\PatnodeIA17\source\repos\MonteCarlo\MonteCarlo\Card.h(23,42): warning C4290:  C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\PatnodeIA17\source\repos\MonteCarlo\MonteCarlo\Deck.h(18,46): warning C4290:  C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\PatnodeIA17\source\repos\MonteCarlo\MonteCarlo\Deck.h(25,38): warning C4290:  C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\PatnodeIA17\source\repos\MonteCarlo\MonteCarlo\Deck.h(26,43): warning C4290:  C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\PatnodeIA17\source\repos\MonteCarlo\MonteCarlo\Deck.h(27,50): warning C4290:  C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\PatnodeIA17\source\repos\MonteCarlo\MonteCarlo\Deck.h(29,37): warning C4290:  C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\PatnodeIA17\source\repos\MonteCarlo\MonteCarlo\DeckTest.cpp(61,24): warning C4101:  'e': unreferenced local variable
+C:\Users\PatnodeIA17\source\repos\MonteCarlo\MonteCarlo\DeckTest.cpp(70,24): warning C4101:  'e': unreferenced local variable
+  Generating Code...
+C:\Users\PatnodeIA17\source\repos\MonteCarlo\MonteCarlo\DeckTest.cpp(198,24): warning C4101:  'e': unreferenced local variable
+  MonteCarlo.vcxproj -> C:\Users\PatnodeIA17\source\repos\MonteCarlo\Debug\MonteCarlo.exe
