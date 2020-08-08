@@ -8,3 +8,8 @@ MonteCarloSimulation
 
 #VS Solution File
 MonteCarlo.sln
+
+#VS Files
+/MonteCarlo/MonteCarlo.vcxproj
+/MonteCarlo/MonteCarlo.vcxproj.filters
+/MonteCarlo/MonteCarlo.vcxproj.user
