@@ -1,0 +1,10 @@
+#VS Code Directory
+.vs/
+
+#VS Code Build Results
+Debug
+/MonteCarlo/Debug
+MonteCarloSimulation
+
+#VS Solution File
+MonteCarlo.sln
