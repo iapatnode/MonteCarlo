@@ -1,9 +1,0 @@
-﻿  Card.cpp
-C:\Users\PatnodeIA17\source\repos\MonteCarlo\MonteCarlo\Card.h(17,43): warning C4290:  C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
-C:\Users\PatnodeIA17\source\repos\MonteCarlo\MonteCarlo\Card.h(22,42): warning C4290:  C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
-C:\Users\PatnodeIA17\source\repos\MonteCarlo\MonteCarlo\Card.h(23,42): warning C4290:  C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
-C:\Users\PatnodeIA17\source\repos\MonteCarlo\MonteCarlo\Card.cpp(18,27): warning C5043:  'Card::Card': exception specification does not match previous declaration
-C:\Users\PatnodeIA17\source\repos\MonteCarlo\MonteCarlo\Card.h(17): message :  see declaration of 'Card::Card'
-C:\Users\PatnodeIA17\source\repos\MonteCarlo\MonteCarlo\Card.cpp(65,47): warning C4290:  C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
-C:\Users\PatnodeIA17\source\repos\MonteCarlo\MonteCarlo\Card.cpp(86,48): warning C4290:  C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
-  MonteCarloSimulation.vcxproj -> C:\Users\PatnodeIA17\source\repos\MonteCarlo\Debug\MonteCarloSimulation.exe
